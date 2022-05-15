@@ -1,0 +1,4 @@
+#Sun May 15 22:32:13 NPT 2022
+base.0=/Users/arbindrakumarsah/Downloads/c7229157-DMA-todoapp-final-arbindra/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
